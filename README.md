@@ -1,6 +1,6 @@
 # pic_editor
 
-A new Flutter project.
+A simple editor to work with images with a simple filter in Flutter
 
 ## Getting Started
 
